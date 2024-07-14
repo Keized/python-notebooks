@@ -1,0 +1,14 @@
+__pycache__/
+lib/
+include/
+bin/
+venv/
+.ipynb_checkpoints
+docs
+chroma
+.DS_STORE
+.vscode/
+scrape
+.env.local
+db/
+data/
